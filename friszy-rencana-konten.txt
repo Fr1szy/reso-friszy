@@ -5,4 +5,5 @@ Rencana gweh la
   *dapat lebih kreatif
 -Tamat JS
   *paham setiap framework
+  *Paham Javascript 
 -Tamat nextJS
