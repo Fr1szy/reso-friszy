@@ -6,4 +6,5 @@ Rencana gweh la
 -Tamat JS
   *paham setiap framework
   *Paham Javascript 
+ *Paham VUE
 -Tamat nextJS
