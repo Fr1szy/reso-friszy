@@ -4,5 +4,5 @@ Rencana gweh la
 -Tamat CSS
   *dapat lebih kreatif
 -Tamat JS
-  *paham betul 
+  *paham setiap framework
 -Tamat nextJS
