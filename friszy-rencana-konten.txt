@@ -5,6 +5,6 @@ Rencana gweh la
   *dapat lebih kreatif
 -Tamat JS
   *paham setiap framework
-  *Paham Angular
-  *Paham React
+  *Paham Javascript 
+ *Paham VUE
 -Tamat nextJS
