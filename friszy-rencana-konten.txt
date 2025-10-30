@@ -1,0 +1,8 @@
+Rencana gweh la
+-Tamat HTML
+  *dapat memahami setiap dasar dan mengaplikasikannya
+-Tamat CSS
+  *dapat lebih kreatif
+-Tamat JS
+  *paham betul 
+-Tamat nextJS
